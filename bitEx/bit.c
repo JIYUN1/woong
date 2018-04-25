@@ -1,4 +1,4 @@
-# 이거능 
+#code
 
 #include<stdio.h>
 
