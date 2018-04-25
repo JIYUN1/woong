@@ -1,7 +1,7 @@
 # JIYUN
 
 
-<pre>
+<pre><code>
 #include<stdio.h>
 
 struct Flags {
@@ -18,4 +18,4 @@ int main()
 
   return 0;
 }
-<code>
+</pre></code>
