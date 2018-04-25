@@ -18,4 +18,4 @@ int main()
 
   return 0;
 }
-</pre></code>
+</code></pre>
