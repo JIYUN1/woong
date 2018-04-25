@@ -1,5 +1,3 @@
-# code
-
 #include<stdio.h>
 
 struct Flags {
