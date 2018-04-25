@@ -1,3 +1,8 @@
+
+# JIYUN
+
+
+<pre>
 #include<stdio.h>
 
 struct Flags {
@@ -14,3 +19,4 @@ int main()
 
   return 0;
 }
+<code>
