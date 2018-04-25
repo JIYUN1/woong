@@ -1,3 +1,5 @@
+# 이거능 
+
 #include<stdio.h>
 
 struct Flags {
