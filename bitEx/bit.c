@@ -12,6 +12,5 @@ int main()
  
   printf("%d\n", sizeof(f1));
 
-# 
   return 0;
 }
